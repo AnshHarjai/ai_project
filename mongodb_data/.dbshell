@@ -1,0 +1,4 @@
+use RAG_DB
+db.raw_data.find().pretty()
+use RAG_DB
+db.raw_data.find().pretty()
