@@ -1,10 +1,15 @@
 # Repository for RAG Project
 
+Project completed by:
+
+1. Ansh Harjai (ah7163)
+2. Ritvik Vasantha Kumar (rv2459)
+
 This repository contains all the necessary files to run the Retrieval-Augmented Generation (RAG) project.
 
 ## Project Overview
 
-In this project, we fine-tuned the **Llama-3-8b-instruct** model on **Google Colab** using a custom dataset stored in `data.json`. The fine-tuned model was saved to **Hugging Face** for potential use. However, due to performance constraints when running the fine-tuned model locally, we implemented the RAG pipeline using the **Llama-3-70b-chat-hf** model, hosted online on **Together.ai**.
+In this project, we fine-tuned the **Llama-3-8b-instruct** model on **Google Colab** using a custom dataset stored in `data.json`. The fine-tuned model was saved to **Hugging Face** for potential use (link for the fine-tuned model: https://huggingface.co/Data-harjai/ai_project_fine_tuned_llama). However, due to performance constraints when running the fine-tuned model locally, we implemented the RAG pipeline using the **Llama-3-70b-chat-hf** model, hosted online on **Together.ai**.
 
 A video demonstration of the **Gradio** app has been uploaded to this repository, showcasing the interactions with the Large Language Model (LLM), where messages and contextual information are sent, and the model responds accordingly.
 
