@@ -4,3 +4,11 @@ beautifulsoup4
 pytube
 pymongo
 clearml
+qdrant-client
+spacy
+transformers
+torch
+gradio
+datasets
+accelerate
+together
