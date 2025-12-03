@@ -4,8 +4,8 @@ api {
   api_server: https://api.clear.ml
   files_server: https://files.clear.ml
   credentials {
-    "access_key" = "YO5CHHKRJZ2Q53HJKU2WHGBPDCY5YK"
-    "secret_key" = "OQP6NZqQoGpYDmD2oCYEpbT5oA9QBwq4xkcu2L0REM9J10dmVxWpoSuC492cLVshRlU"
+    "access_key" = "enter_access_key"
+    "secret_key" = "enter_secret_key"
   }
 }
 
